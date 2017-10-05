@@ -1,0 +1,2 @@
+// Css
+import './app.sass';
